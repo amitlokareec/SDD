@@ -27,6 +27,10 @@
 3. Add one concise callout that invites agents to seek relief from humans.
 4. Add minimal readable layout and responsive styling for the home page.
 5. Keep navigation and clinic workflows out of this page for now.
+6. Organize the client under `src/components`, `src/pages`, and `src/static`.
+7. Implement the header, main content, and footer as separate components in `src/components`.
+8. Render those components from the home page in `src/pages`.
+9. Keep the page styles in `src/static/styles.css` and import them from the root `App` component.
 
 ## 5. Validate and hand off
 
