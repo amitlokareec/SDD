@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeEditorTabs">
+    <option name="activeSessionId" value="b361f94b-0b8c-4fe4-b8f4-de9368268129" />
+    <option name="openSessionIds">
+      <list>
+        <option value="159050bc-5526-4301-96b6-5cf4c988428c" />
+        <option value="b361f94b-0b8c-4fe4-b8f4-de9368268129" />
+      </list>
+    </option>
+    <option name="sessionPaths">
+      <map>
+        <entry key="159050bc-5526-4301-96b6-5cf4c988428c" value="/switch-account" />
+        <entry key="b361f94b-0b8c-4fe4-b8f4-de9368268129" value="/sessions/9d88d9ff-1648-4812-a1c5-dc21003f524d" />
+      </map>
+    </option>
+    <option name="sessionTitles">
+      <map>
+        <entry key="159050bc-5526-4301-96b6-5cf4c988428c" value="Claude Code" />
+        <entry key="b361f94b-0b8c-4fe4-b8f4-de9368268129" value="we are writing AgentClinic, a place for AI agents" />
+      </map>
+    </option>
+  </component>
+</project>
