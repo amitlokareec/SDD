@@ -1,5 +1,15 @@
 # Validation: Shared dashboard frame
 
+## Implementation handoff
+
+- `npm run build` — passed on 2026-10-31. TypeScript compilation and the Vite production build completed successfully.
+- Agents and Staff are available as keyboard-operable buttons in the semantic Main navigation; the selected destination exposes `aria-current="page"` and has a visible active style.
+- Both destinations render through the shared page content container and reusable empty-state component.
+- Responsive layout rules stack the brand and navigation at narrow widths and allow the content card to use available width on larger screens.
+- No domain data, workflows, server, persistence, or authentication were added.
+
+Manual browser checks at narrow and wide widths have not been run.
+
 The feature is ready to merge when all of the following are true:
 
 1. Agents and Staff appear as primary navigation destinations.
